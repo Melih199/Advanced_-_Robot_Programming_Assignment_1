@@ -3,8 +3,8 @@
 
 ## This Assignment Made By:
 
-1- Ahmet Samet KOSUM    S5635830
-2- Mustafa Melih TOSLAK S5431021
+1. Ahmet Samet KOSUM    S5635830
+2. Mustafa Melih TOSLAK S5431021
 
 ----------------------------------------
 
