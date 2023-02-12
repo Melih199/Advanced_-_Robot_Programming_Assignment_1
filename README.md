@@ -21,7 +21,7 @@
 
 ## Introduction
 
-The project aims to control a hoist with two degrees of freedom, allowing the user to input commands to control its movement. The hoist has two motors: one for movement on the x-axis and the other for movement on the z-axis.using `pip` or `easy_install`.
+The project aims to control a hoist with two degrees of freedom, allowing the user to input commands to control its movement. The hoist has two motors: one for movement on the x-axis and the other for movement on the z-axis.
 
 ---------------------------------
 
