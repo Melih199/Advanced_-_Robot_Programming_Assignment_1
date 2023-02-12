@@ -65,6 +65,15 @@ The inspection console is used to show the movement of the hoist to the user. It
 
 The sixth and final process is the watchdog, which kills all processes and itself if no buttons are pressed for 60 seconds.
 
+## How to Install and Run
+
+1- Install the ncursers Library:     Open a terminal window.
+                                     Type the following command: '''command sudo apt-get install libncurses-dev '''
+                                     
+2- Change the permissions of .c files inside the src/ folder to be executable by running: chmod +x *.c
+
+
+
 --------------------------------------
 
 ## Conclusion
