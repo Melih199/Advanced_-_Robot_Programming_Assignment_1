@@ -1,6 +1,13 @@
  ADVANCED & ROBOT PROGRAMMING(ARP) ASSIGNMENT 1
 ================================
 
+## This Assignment Made By:
+
+1- Ahmet Samet KOSUM    S5635830
+2- Mustafa Melih TOSLAK S5431021
+
+----------------------------------------
+
 ## Goal Of The Assignment 
 
 1. To design an interactive simulator of a hoist with two degrees of freedom (2 d.o.f)
