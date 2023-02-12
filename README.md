@@ -68,12 +68,32 @@ The sixth and final process is the watchdog, which kills all processes and itsel
 ## How to Install and Run
 
 1- Install the ncursers Library:
-'''command sudo apt-get install libncurses-dev 
-'''
+```command
+	sudo apt-get install libncurses-dev
+```
                                      
-2- Change the permissions of .c files inside the src/ folder to be executable by running: chmod +x *.c
+2- Change the permissions of .c files inside the src/ folder to be executable by running: 
+```command
+	chmod +x *.c
+```
+3- Change the permissions of .sh files inside the ARP_Assignment_1/ folder to be executable by running:
+```command
+	chmod +x compile.sh
+ chmod +x run.sh
+```
+4- Compile the code by running:
+```command
+	./compile.sh
+```
+6- Run the code by typing:
+```command
+	./run.sh
+```
+------------------------------------------
 
+## Troubleshooting
 
+In the event that any unusual issues arise after starting the application, such as buttons not appearing in the GUI or graphical elements appearing misaligned, simply try resizing the terminal window as a solution.
 
 --------------------------------------
 
