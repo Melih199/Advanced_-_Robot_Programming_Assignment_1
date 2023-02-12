@@ -16,6 +16,7 @@
     <img width="100%" height="350" src="https://user-images.githubusercontent.com/58879182/218331460-47d5b789-a187-4209-abcb-534f2c5f1d69.png">
     
 </p>
+
 ----------------------------------
 
 ## Introduction
@@ -32,6 +33,7 @@ The first window is the command console, where the user can input commands by cl
     <img width="100%" height="350" src="https://user-images.githubusercontent.com/58879182/218332141-a8f08313-6d4b-4689-910e-2f2c654badcc.png">
     
 </p>
+
 ---------------------------------
 
 ## Motor x and Motor z Processes
@@ -63,6 +65,7 @@ The inspection console is used to show the movement of the hoist to the user. It
 
 The sixth and final process is the watchdog, which kills all processes and itself if no buttons are pressed for 60 seconds.
 
+--------------------------------------
 
 ## Conclusion
 
